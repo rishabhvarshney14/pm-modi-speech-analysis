@@ -60,3 +60,18 @@ Let's have a look at frequencies of tags:
 
 Tags like "Development", "Infrastructure", "Empowering the Poor", "Technology" and "Yuva Shakti" are commonly used.
 
+### Mann Ki Baat 
+
+Mann Ki Baat is an Indian radio programme hosted by Prime Minister Narendra Modi in which he addresses the people of the nation on All India Radio, DD National and DD News. Since the first show on 3 October 2014, there have been 66 episodes. The 66th episode was aired on 28 June 2020.
+
+Mann Ki Baat does not count in 
+
+According to the survey done by AIR maximum listeners came from the Bihar, Gujarat and Madhya Pradesh while the states of Andhra Pradesh and Arunachal Pradesh had the lowest awareness.
+
+![spy_mann_ki_baat](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/spy_mann_ki_baat.png)
+
+Word cloud of Mann Ki Baat:
+
+![wc_speech_mann_ki_baat](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/wc_speech_mann_ki_baat.png)
+
+Hindustan Times also did a word cloud analysis of Mann Ki Baat.The words "India" and "nation" were the two most used words in Mann Ki Baat in 2019. "Youth" and "Young" were mentioned 30 and 54 times. "Economy" or "economics" was spoken 8 times.
