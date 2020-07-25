@@ -34,7 +34,7 @@ Let's have a look on the tags that have been used mose frequently
 
 Apart from the words like Speeches, India, National the most frequent words are 'Development', 'Infrastructure', 'Empowering the Poor', 'Technology', 'Yuva Shakti', 'Youth', 'Education', 'Farmers' and 'Healthcare'
 
-![fot_all](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/fot_all.png)
+![fot_all](images/fot_all.png)
 
 ### Internation speeches given
 
@@ -42,13 +42,13 @@ As of July 2020, Narendra Modi has made 59 foreign trips, visiting 60 countries 
 
 He has given 34 speeches outside India between April 2, 2016 to June 16, 2020.
 
-![spy_international](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/spy_international.png)
+![spy_international](images/spy_international.png)
 
 Due to covid 19 He has not given any speech outside India this year.
 
 Lets have look on how much speeches he has given country-wise (not including India)
 
-![speech_given_country](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/speech_given_countries.png)
+![speech_given_country](images/speech_given_countries.png)
 
 Seems like he has given more speeches in Africa, Singapore and Saudi Arabia than any other country. 
 
@@ -56,7 +56,7 @@ Speech given is Mexico is "Howdy, Modi!" given in September 3, 2019 also the con
 
 Let's have a look at frequencies of tags:
 
-![fot_international](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/fot_international.png)
+![fot_international](images/fot_international.png)
 
 Tags like "Development", "Infrastructure", "Empowering the Poor", "Technology" and "Yuva Shakti" are commonly used.
 
@@ -68,11 +68,11 @@ Mann Ki Baat does not considered as a speech but it is included in the website's
 
 According to the survey done by AIR maximum listeners came from the Bihar, Gujarat and Madhya Pradesh while the states of Andhra Pradesh and Arunachal Pradesh had the lowest awareness.
 
-![spy_mann_ki_baat](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/spy_mann_ki_baat.png)
+![spy_mann_ki_baat](images/spy_mann_ki_baat.png)
 
 Word cloud of Mann Ki Baat:
 
-![wc_speech_mann_ki_baat](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/wc_speech_mann_ki_baat.png)
+![wc_speech_mann_ki_baat](images/wc_speech_mann_ki_baat.png)
 
 Hindustan Times also did a word cloud analysis of Mann Ki Baat.The words "India" and "nation" were the two most used words in Mann Ki Baat in 2019. "Youth" and "Young" were mentioned 30 and 54 times. "Economy" or "economics" was spoken 8 times.
 
@@ -80,7 +80,7 @@ Hindustan Times also did a word cloud analysis of Mann Ki Baat.The words "India"
 
 In this we will consider all speeches inluding international and Mann ki Baat.
 
-![speech_all_month](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/speech_month.png)
+![speech_all_month](images/speech_month.png)
 
 In 2020 Mr. Narendra Modi has given very less speeches as compared to other years this is due to covid 19.
 
