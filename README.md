@@ -82,3 +82,15 @@ In this we will consider all speeches inluding international and Mann ki Baat.
 
 ![speech_all_month](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/speech_month.png)
 
+In 2020 Mr. Narendra Modi has given very less speeches as compared to other years this is due to covid 19.
+
+## Sources
+
+ - [Narendra Modi's Website](https://www.narendramodi.in/)
+ - [Wikipedia](https://www.wikipedia.org/)
+ - [Mansi's Analysis of speeches](http://mgupta1410.github.io/speechanalysis.html)
+ 
+## TODO
+
+ - Create a web app for Speech Generator
+ - Use youtube veiws statistics for analysing likability of speeches
