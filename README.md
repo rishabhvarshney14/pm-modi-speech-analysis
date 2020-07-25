@@ -76,13 +76,9 @@ Word cloud of Mann Ki Baat:
 
 Hindustan Times also did a word cloud analysis of Mann Ki Baat.The words "India" and "nation" were the two most used words in Mann Ki Baat in 2019. "Youth" and "Young" were mentioned 30 and 54 times. "Economy" or "economics" was spoken 8 times.
 
-![fot_mann_ki_baat](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/fot_mann_ki_baat.png)
-
-The most used tags in Mann ki Baat are "Development", "Infrastructure", "Empowering the Poor", "Technology", "Education", and "Human Development".
-
 ### Year wise Analysis
 
 In this we will consider all speeches inluding international and Mann ki Baat.
 
-#### 2016
+![speech_all_month](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/speech_month.png)
 
