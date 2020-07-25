@@ -22,13 +22,13 @@ From April 2, 2016 to June 16, 2020 Mr. Narendra Modi has given 960 speeches (pr
 
 Let's have a look on speeches given per year:
  
- ![speeches per year](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/speech_per_year.png)
+ ![speeches per year](images/speech_per_year.png)
  
 Looking at both of the plots we can see that there are not much different between these two so we are going to only use speech_with_hindi.csv for exploration while I will use the other one for text generation.
 
 From the plot we can see that the number of speeches given in 2019 is the highest where as it is less in 2020 (it is because the data only contains speech till June 2020).
 
-![wc_all](https://github.com/rishabhvarshney14/pm-modi-speech-analysis/blob/master/images/wc_all.png)
+![wc_all](images/wc_all.png)
 
 Let's have a look on the tags that have been used mose frequently
 
